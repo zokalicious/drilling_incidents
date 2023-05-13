@@ -15,11 +15,11 @@
 и другие
 
 ## Используемые библиотеки
-*pandas*
-*numpy*
-*scikit-learn*
-*catboost*
-*optuna*
-*sqlalchemy*
-*pyarrow*
-*json*
+- *pandas*
+- *numpy*
+- *scikit-learn*
+- *catboost*
+- *optuna*
+- *sqlalchemy*
+- *pyarrow*
+- *json*
